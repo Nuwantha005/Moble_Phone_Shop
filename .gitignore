@@ -1,0 +1,23 @@
+# Build output directories
+build/
+dist/
+
+# NetBeans IDE private files
+nbproject/private/
+
+# JVM crash logs
+hs_err_pid*.log
+
+# Compiled class files
+*.class
+
+# JAR files (except those in lib/)
+*.jar
+!lib/*.jar
+!lib/CopyLibs/*.jar
+
+# macOS metadata
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
